@@ -1,5 +1,6 @@
 {
     "name": "หุ่นยนต์ 1/7/2567 6",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
